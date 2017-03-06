@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//admin/article.add.php=UTF-8
+encoding//admin/article.borrow.handle.php=UTF-8
+encoding//admin/article.borrow.php=UTF-8
+encoding//admin/article.del.handle.php=UTF-8
+encoding//admin/article.find_book.handle.php=UTF-8
+encoding//admin/article.find_book.php=UTF-8
+encoding//admin/article.find_user.php=UTF-8
+encoding//admin/article.manage_user.php=UTF-8
+encoding//admin/article.managebook_find.php=UTF-8
+encoding//admin/article.modify.handle.php=UTF-8
+encoding//admin/article.modify.php=UTF-8
+encoding//admin/article.return.handle.php=UTF-8
+encoding//admin/article.user_manage.php=UTF-8
+encoding//admin/library.manage.php=UTF-8
+encoding/connect.php=UTF-8
